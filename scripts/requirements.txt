@@ -1,0 +1,5 @@
+argparse
+tflite-support
+protobuf
+tk
+python-pil.imagetk
